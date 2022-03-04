@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/logs/logs",
+    "pages/index/index"
+    
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#FF7F50",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "小程序"
+  }
+}

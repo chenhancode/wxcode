@@ -1,0 +1,2 @@
+<button bindtap="toIndex">点我到首页</button>
+
